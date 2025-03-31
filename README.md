@@ -1,1 +1,1 @@
-#This is a local repo, and a tutrial of github
+# This is a local repo, and a tutrial of github
